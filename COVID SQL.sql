@@ -1,7 +1,7 @@
 /*
 
-Queries used for Tableau Project
-
+Queries used for Tableau Dashboard COVID-19 - April 2023
+https://public.tableau.com/app/profile/rodrigonvs/viz/COVID-19Dashboard-April2023/Dashboard1
 */
 
 -- 1. Global Total Cases, Total Deaths and Death Percentage
